@@ -34,7 +34,7 @@ My focus is on designing **smart, scalable software solutions** — especially u
 ### 🌍 **Find Me Online**
 - 💼 LinkedIn → [linkedin.com/in/mohammad-babaeii](https://www.linkedin.com/in/mohammad-babaeii)  
 - 🌐 Website → [adschi.com](https://adschi.com)  
-- 💡 GitHub → [github.com/mohammad-babaeii](https://github.com/mohammad-babaeii)
+- 💡 GitHub → [github.com/mohammad-babaeii](https://github.com/IranDec)
 
 ---
 
